@@ -1,1 +1,1 @@
-A collection challenge files.
+A collection of challenge files.
